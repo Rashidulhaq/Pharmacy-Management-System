@@ -1,0 +1,147 @@
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\medisoft.exe.config
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\medisoft.exe
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\medisoft.pdb
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\Guna.UI2.dll
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.csproj.AssemblyReference.cache
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.logIn.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.Properties.Resources.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.csproj.GenerateResource.cache
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.csproj.CoreCompileInputs.cache
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.csproj.CopyComplete
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.exe
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.pdb
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.Adminstrator.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.Pharmacist.resources
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\ScottPlot.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\System.Drawing.Common.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\System.ValueTuple.dll
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.pdb
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.xml
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\ScottPlot.xml
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\System.ValueTuple.xml
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_Dashboard.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_ViewMedicines.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_UpdateMedicines.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\medisoft.exe.manifest
+C:\Users\Rakib\source\repos\MediSoft\bin\Debug\medisoft.application
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.TrustInfo.xml
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.exe.manifest
+C:\Users\Rakib\source\repos\MediSoft\obj\Debug\medisoft.application
+C:\Users\Rakib\source\repos\medisoft\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Rakib\source\repos\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\Rakib\source\repos\medisoft\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Rakib\source\repos\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\Rakib\source\repos\medisoft\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Rakib\source\repos\medisoft\obj\Debug\medisoft.AdministratorUC.AddUser.resources
+C:\Users\Rakib\source\repos\medisoft\obj\Debug\medisoft.AdministratorUC.Dashbord.resources
+C:\Users\Rakib\source\repos\medisoft\obj\Debug\medisoft.AdministratorUC.Profile.resources
+C:\Users\Rakib\source\repos\medisoft\obj\Debug\medisoft.AdministratorUC.ViewUser.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe.config
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe.manifest
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.application
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.pdb
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Guna.UI2.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.Drawing.Common.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.ValueTuple.dll
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.pdb
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.ValueTuple.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.AssemblyReference.cache
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.AddUser.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.Dashbord.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.Profile.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.ViewUser.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Adminstrator.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.LogIn.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Pharmacist.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_Dashboard.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_UpdateMedicines.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_ViewMedicines.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Properties.Resources.resources
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.GenerateResource.cache
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.CoreCompileInputs.cache
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.TrustInfo.xml
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.exe.manifest
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.application
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.CopyComplete
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.exe
+C:\Users\rashi_xkuta24\OneDrive\Desktop\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.pdb
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe.config
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe.manifest
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.application
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.exe
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\medisoft.pdb
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Guna.UI2.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.WinForms.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Licensing.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Shared.WPF.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.Drawing.Common.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.ValueTuple.dll
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.pdb
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.pdb
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.WinForms.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.pdb
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\LiveCharts.Wpf.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\ScottPlot.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\Syncfusion.Shared.WPF.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\bin\Debug\System.ValueTuple.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.AssemblyReference.cache
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.AddUser.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.Dashbord.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.Profile.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.AdministratorUC.ViewUser.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Adminstrator.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.LogIn.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Pharmacist.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_AddMedicine.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_Dashboard.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_MedicineValidityCheck.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_SellMedicine.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_UpdateMedicines.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.PharmacistUC.UC_P_ViewMedicines.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.Properties.Resources.resources
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.GenerateResource.cache
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.CoreCompileInputs.cache
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.TrustInfo.xml
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.exe.manifest
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.application
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.csproj.CopyComplete
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.exe
+F:\sdp2\Pharmacy Management System\Pharmacy Management System(19201103097)\Source Code\medisoft\obj\Debug\medisoft.pdb

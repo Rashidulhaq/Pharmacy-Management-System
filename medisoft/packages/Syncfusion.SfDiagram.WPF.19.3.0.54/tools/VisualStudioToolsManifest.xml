@@ -1,0 +1,10 @@
+<FileList>
+
+<File Reference="Syncfusion.SfDiagram.WPF.dll">
+	<ContainsControls>True</ContainsControls>
+	<ToolboxItems UIFramework="WPF" VSCategory="Syncfusion WPF UI Controls (NuGet)" BlendCategory="Syncfusion WPF UI Controls (NuGet)">
+		<Item Type="Syncfusion.UI.Xaml.Diagram.SfDiagram"/>
+		<Item Type="Syncfusion.UI.Xaml.Diagram.Stencil.Stencil"/>
+	</ToolboxItems>
+</File>
+</FileList>
